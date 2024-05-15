@@ -7,7 +7,7 @@ var textElement = document.getElementById('text');
 
 if (textElement) {
     var typed = new Typed('#text', {
-        strings: ['Illustrator', 'Graphic Designer', 'Frontend Developer'],
+        strings: ['Illustrator', 'Designer', 'Developer'],
         typeSpeed: 75,
         backSpeed: 75,
         backDelay: 1000,
