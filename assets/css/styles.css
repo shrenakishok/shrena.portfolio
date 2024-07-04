@@ -503,6 +503,15 @@ blockquote p:first-child::before { /* Pseudo Elements */
   width: 55%;
 }
 
+.skill_rjs{
+  width: 50%;
+}
+
+.skill_ts{
+  width: 30%;
+}
+
+
 .skill_php{
   width: 50%;
 }
@@ -517,6 +526,10 @@ blockquote p:first-child::before { /* Pseudo Elements */
 
 .skill_c{
   width: 45%;
+}
+
+.skill_njs{
+  width: 40%;
 }
 
 .skill_ps{
